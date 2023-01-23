@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_padding">10dp</dimen>
+    <dimen name="screen_marginY">10dp</dimen>
+    <dimen name="screen_height">120dp</dimen>
+    <dimen name="screen_text_size">60sp</dimen>
+    <dimen name="row_height">90dp</dimen>
+    <dimen name="button_width">50dp</dimen>
+    <dimen name="button_margin">2dp</dimen>
+    <dimen name="button_text_size">36sp</dimen>
+    <dimen name="madeBy_text_size">20sp</dimen>
+    <dimen name="madeBy_marginUp">20dp</dimen>
+</resources>
